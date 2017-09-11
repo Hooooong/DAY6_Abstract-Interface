@@ -2,7 +2,7 @@ package com.leeheungki.abstractExam;
 
 public class Bird extends Animal{
 
-	String type="영장류에요";
+	String type="bird";
 	
 	@Override
 	public String tpye() {

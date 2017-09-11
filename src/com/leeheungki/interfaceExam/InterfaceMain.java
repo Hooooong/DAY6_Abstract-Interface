@@ -1,9 +1,8 @@
 package com.leeheungki.interfaceExam;
 
-/**
+/*
  * 1. 인터페이스를 상속받고있어야 하고.
- * @author Android Hong
- *
+ * 
  */
 public class InterfaceMain implements InterfaceC{
 	

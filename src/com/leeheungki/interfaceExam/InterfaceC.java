@@ -1,9 +1,6 @@
 package com.leeheungki.interfaceExam;
 
-/*
- * 인터페이스
- * 
- */
 public interface InterfaceC {
+	// callback 함수
 	public void callBack();
 }
