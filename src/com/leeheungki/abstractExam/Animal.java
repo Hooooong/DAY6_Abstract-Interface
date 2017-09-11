@@ -1,9 +1,8 @@
 package com.leeheungki.abstractExam;
-/**
+
+/*
  * 추상클래스 테스트
  * 
- * @author Android Hong
- *
  */
 public abstract class Animal {
 	/*
