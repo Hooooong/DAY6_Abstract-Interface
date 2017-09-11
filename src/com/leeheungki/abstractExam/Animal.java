@@ -7,9 +7,7 @@ package com.leeheungki.abstractExam;
  */
 public abstract class Animal {
 	/*
-	 *
 	 * 추상클레스는 abstact 란 
-	 * 
 	 * 
 	 * 추상메소드는 abstact 란 단어를 붙이면 몸체가 없는 메소드이고,
 	 * abstact 를 붙이지 않으면 몸체가 있는 추상메소드이다.
@@ -28,10 +26,10 @@ public abstract class Animal {
 }
 
 abstract class Base{
-	public abstract void create();
-	public abstract void read();
-	public abstract void update();
-	public abstract void delete();
+	abstract void create();
+	abstract void read();
+	abstract void update();
+	abstract void delete();
 }
 
 abstract class Memo extends Base{
@@ -39,29 +37,6 @@ abstract class Memo extends Base{
 	public void deleteList() {
 		update();
 		delete();
-	}
-	@Override
-	public void create() {
-		System.out.println("called Create");
-		
-	}
-
-	@Override
-	public void read() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void update() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void delete() {
-		// TODO Auto-generated method stub
-		
 	}
 }
 
@@ -73,7 +48,29 @@ abstract class Memo extends Base{
  */
 class MemoImpl extends Memo{
 
+	@Override
+	void create() {
+		// TODO Auto-generated method stub
+		
+	}
 
+	@Override
+	void read() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void update() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void delete() {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 

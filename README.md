@@ -5,8 +5,8 @@ JAVA Programing
 ###### 예제
 ____________________________________________________
 
-  1. [Abstract & Inteface 사용 방법]()
-  2. [Interface Callback 원리]()
+  1. [Abstract & Inteface 사용 방법](https://github.com/Hooooong/DAY6_Abstract-Interface/tree/master/src/com/leeheungki/abstractExam)
+  2. [Interface Callback 원리](https://github.com/Hooooong/DAY6_Abstract-Interface/tree/master/src/com/leeheungki/interfaceExam)
 
 ###### 공부내용
 ____________________________________________________
