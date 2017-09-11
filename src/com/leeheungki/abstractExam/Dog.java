@@ -1,4 +1,4 @@
-package com.leeheungki.abstact;
+package com.leeheungki.abstractExam;
 
 public class Dog extends Animal{
 	

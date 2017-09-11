@@ -1,4 +1,4 @@
-package com.leeheungki.abstact;
+package com.leeheungki.abstractExam;
 /**
  * 추상클래스 테스트
  * 
