@@ -8,7 +8,7 @@ ____________________________________________________
   1. [Abstract & Inteface 사용 방법](https://github.com/Hooooong/DAY6_Abstract-Interface/tree/master/src/com/leeheungki/abstractExam)
   2. [Interface Callback 원리](https://github.com/Hooooong/DAY6_Abstract-Interface/tree/master/src/com/leeheungki/interfaceExam)
 
-      ![callback 흐름도](https://github.com/Hooooong/DAY6_Abstract-Interface/blob/master/image/%ED%9D%90%EB%A6%84%EB%8F%84.png)
+      ![callback 흐름](https://github.com/Hooooong/DAY6_Abstract-Interface/blob/master/image/%ED%9D%90%EB%A6%84%EB%8F%84.png)
 
 ###### 공부내용
 ____________________________________________________
